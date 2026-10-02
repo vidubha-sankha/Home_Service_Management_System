@@ -1,0 +1,10 @@
+{
+  "name": "home-service-management-system",
+  "version": "1.0.0",
+  "description": "PHP HSMS System",
+  "scripts": {
+    "dev": "C:\\xampp\\php\\php.exe -S localhost:8000"
+  },
+  "author": "",
+  "license": "ISC"
+}
